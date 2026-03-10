@@ -4,9 +4,9 @@
 - **Company Name:** Challenge BTP
 - **Directory:** challenge_btp
 - **Address/Contact:** 
-  - �tudes-conceptions-Realisations des ouvrages de G�nie civil et assimil�s
+  - études-conceptions-Realisations des ouvrages de Génie civil et assimilés
   - 
-  - Page � Entreprise de construction
+  - Page é Entreprise de construction
   - 
   - Douala, Cameroon
   - 
